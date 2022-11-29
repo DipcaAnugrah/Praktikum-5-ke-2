@@ -3,7 +3,7 @@
 ## Input Data Mahasiswa
 ## Flowchart Progam
 
-![img.9](gambar/FLOWCHART%20PROGRAM.png)
+![img.9](gambar/flowchart.png)
 
 ## Penjelasan Program
 * `data = {}`, adalah sebuah variabel bertipe *dictionary Kosong / tidak bervalue*, ini berfungsi untuk menampung inputan kyboard/user.
