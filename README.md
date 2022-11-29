@@ -171,20 +171,20 @@
 
 ### Programnya
 
-![img.1](gambar/program.1.png)
+![img.1](gambar/codeprogram.1.png)
 
-![img.2](gambar/program.2.png)
+![img.2](gambar/codeprogram.2.png)
 
-![img.3](gambar/program.3.png)
+![img.3](gambar/codeprogram.3.png)
 
-![img.4](gambar/program.4.png)
+![img.4](gambar/codeprogram.4.png)
 
 #### Hasil Programnya
 
 ![img.5](gambar/tidak%20ada%20data.png)
 
-![img.6](gambar/hasil.1.png)
+![img.6](gambar/h.1.png)
 
 ![img.7](gambar/tambah%20.png)
 
-![img.8](gambar/hasil.2.png)
+![img.8](gambar/h.2.png)
